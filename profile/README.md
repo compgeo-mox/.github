@@ -2,4 +2,4 @@
 
 PyGeoN: link
 
-List of papers [here](./papers.md)
+List of papers [here](https://github.com/compgeo-mox/.github/blob/main/profile/papers.md)
