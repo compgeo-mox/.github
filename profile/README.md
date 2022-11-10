@@ -1,4 +1,4 @@
-## Hi there
+## Welcome
 
 This is the GitHub organization of the Computational Geoscience group at MOX. Our main activity involves the development of [PyGeoN: a Python Package for Geo-Numerics](https://github.com/compgeo-mox/pygeon). The package relies heavily on [PorePy](https://github.com/pmgbergen/porepy).
 
